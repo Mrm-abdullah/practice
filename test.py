@@ -346,3 +346,4 @@ def str_reverse(str1):
 print(str_reverse('asdfgh')) """
 
 
+print(222)
